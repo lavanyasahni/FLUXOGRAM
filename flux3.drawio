@@ -22,19 +22,19 @@
         <mxCell id="gwRseK_KR9OHzApWqsg4-17" edge="1" parent="1" source="gwRseK_KR9OHzApWqsg4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="gwRseK_KR9OHzApWqsg4-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gwRseK_KR9OHzApWqsg4-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&amp;gt;9.5" vertex="1">
+        <mxCell id="gwRseK_KR9OHzApWqsg4-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="nota&amp;gt;9.5" vertex="1">
           <mxGeometry height="80" width="80" x="310" y="300" as="geometry" />
         </mxCell>
         <mxCell id="gwRseK_KR9OHzApWqsg4-21" edge="1" parent="1" source="gwRseK_KR9OHzApWqsg4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="gwRseK_KR9OHzApWqsg4-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gwRseK_KR9OHzApWqsg4-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;Escrever reprovado&amp;nbsp;&lt;/div&gt;" vertex="1">
+        <mxCell id="gwRseK_KR9OHzApWqsg4-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;Escrever &quot;reprovado &quot;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="80" y="310" as="geometry" />
         </mxCell>
         <mxCell id="gwRseK_KR9OHzApWqsg4-24" edge="1" parent="1" source="gwRseK_KR9OHzApWqsg4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="gwRseK_KR9OHzApWqsg4-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gwRseK_KR9OHzApWqsg4-16" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Escrever aprovado" vertex="1">
+        <mxCell id="gwRseK_KR9OHzApWqsg4-16" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Escrever &quot;aprovado&quot;" vertex="1">
           <mxGeometry height="60" width="110" x="590" y="310" as="geometry" />
         </mxCell>
         <mxCell id="gwRseK_KR9OHzApWqsg4-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Fim" vertex="1">
